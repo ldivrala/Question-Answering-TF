@@ -30,4 +30,4 @@ Architecture :: Transformer
 
     4. Contextualized Sequence Features -> Dense Layers -> Softmax (Answer start index, end index prediction).
   
-  5. Training (We failed for now!)
+  5. Training (We don't get our expected result for now, **Unsuccessful for now!**)
